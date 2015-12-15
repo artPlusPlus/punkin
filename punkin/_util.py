@@ -1,0 +1,2 @@
+class UNSET(object):
+    pass

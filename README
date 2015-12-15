@@ -1,0 +1,22 @@
+punkin
+    dimensional data made simple
+
+
+hello
+    punkin is a library for working with multi-dimensional data. It is intended
+    for quickly modeling and manipulating data sets. It is not intended to
+    replace ools like numpy.
+
+
+status
+    pre-alpha
+    functionaly incomplete
+
+
+docs
+    soon
+
+
+tests
+    in the tests/ directory
+    use `py.test`
